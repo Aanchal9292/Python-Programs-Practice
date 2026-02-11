@@ -1,2 +1,4 @@
 print("Hello Everyone")
-print("Good Morning")
+a=10,b=34
+print(a+b)
+print("hii ")
